@@ -55,10 +55,10 @@ It can **read any QR Code** from an image and **generate custom QR images** — 
 
 2025/10/17-20:01:03 [Info] App Started.
 2025/10/17-20:01:06 [Info] User Selected Image: sample_qr.png
-2025/10/17-20:01:07 [Info] QR Content Detected: https://activegamers.ir
+2025/10/17-20:01:07 [Info] QR Content Detected: [https://github.com/ActiveGamers](https://github.com/ActiveGamers)
 2025/10/17-20:01:07 [Info] Type: URL | Action: Show “Open Link” Button
 2025/10/17-20:02:12 [Info] User Generated New QR | Format: PNG | Size: 160x160 | Transparent: True
-2025/10/17-20:02:13 [Info] File Saved To %localappdata%\ActiveGamers\QREasy\Exports\myqr.png
+2025/10/17-20:02:13 [Info] File Saved To %localappdata%\ActiveGamers\Qrymien\Exports\myqr.png
 
 ---
 
