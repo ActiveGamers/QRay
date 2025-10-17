@@ -13,7 +13,7 @@ It can **read any QR Code** from an image and **generate custom QR images** — 
 - 📜 **Text, URL, and Data Detection** – Supports text, URLs, contact cards, and all standard QR formats  
 - 🖼️ **Batch Image Support** – Import one or multiple images to scan them all at once  
 - ⚡ **Offline & Local** – Works completely offline; no API or internet needed  
-- 🪄 **QR Generator** – Create custom QR codes from any text, link, or data instantly  
+- 👨‍💻 **QR Generator** – Create custom QR codes from any text, link, or data instantly  
 - 🎨 **Output Formats** – Save QR as **PNG** or **JPG**  
 - 🧷 **Transparent Option (PNG Only)** – Choose between **transparent** or **white background**  
 - 📏 **Custom Size Support** – Set QR dimensions manually (e.g., `100x100px`, `160x160px`)  
