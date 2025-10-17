@@ -98,11 +98,11 @@ It processes all your QR codes **locally** on your PC, with zero cloud dependenc
 
 ## File Structure 📁
 %localappdata%\ActiveGamers\QRay
-├── DB\ # SQLite database files
-├── Logs\ # Application logs with rotation
-├── Config\ # Settings and configuration
-├── Exports\ # Generated QR code exports
-└── Reports\ # Diagnostic reports
+├── DB\ # SQLite database files</br>
+├── Logs\ # Application logs with rotation</br>
+├── Config\ # Settings and configuration</br>
+├── Exports\ # Generated QR code exports</br>
+└── Reports\ # Diagnostic reports</br>
 
 ---
 
